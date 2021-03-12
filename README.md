@@ -8,7 +8,7 @@ This sample Jetpack Compose application is part of #AndroidStudyJams session abo
 * Stateful Composable.
 
 ## :camera_flash: Screenshots
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">&emsp;<img src="/results/overview.gif" width="260">
+<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">&emsp;
 
 ## License
 
